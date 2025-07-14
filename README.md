@@ -1,2 +1,7 @@
-# portfolio-website
-Personal portfolio website using HTML, CSS, and JavaScript.
+
+# Portfolio Website
+
+A simple static website for showcasing projects and skills.
+
+## How to Use
+Open `index.html` in your browser.
